@@ -149,8 +149,22 @@ public class RegexStudy {
 //        Matcher m = p.matcher("The dog says meow. All dogs say meow~!");
 //        System.out.println(m.replaceAll("cat"));
 
-        System.out.println("The cat sat on the mat.".replaceAll("at[.]", "*"));
+//        System.out.println("The cat sat on the mat.".replaceAll("at[.]", "*"));
 //        System.out.println("The cat sat on the mat.".replaceAll("at[.]"));
+
+//        System.out.println("The cat sat on the mat.".replaceAll("at[.]?", "*"));
+            //?는 있을 수도 있고 없을 수도 있다를 의미하기 때문에 cat sat mat. 가 전부 *로 치환됨
+
+//        System.out.println("The cat  sat on the mat.".replaceAll("[a-z]+", "*"));
+        // a-z 까지의 문자가 1번 반복되는 것을 표현하는 regex는 전부 * 로 치환한다. a-z에 해당하지 않는 T와 .은 regex에 match 되지 않아서 치환되지 않았다.
+
+//        System.out.println("The cat sat on the mat.".replaceAll("c.+t", "*"));
+        //.은 무엇을 의미하는가 . 은 어떤 문자 한개를 의미한다. .+ 가 된다면 아무 문자 1개 이상을 의미힌다.
+
+//        System.out.println("The cat sat on the mat.".replaceAll("c.+?t", "*"));
+        // +와 ?가 같이 쓰여서 둘 중 작은 범위에 ?로 계산되어졌다. .?는 가운데 문자가 올 수도 있고 없을 수도 있다는 의미, 해당하는 건 cat 뿐
+
+        // ==== 출처 :  https://codechacha.com/ko/java-regex/ ==== 3회독 필요//
 
     }
 
