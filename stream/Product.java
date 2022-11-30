@@ -3,25 +3,26 @@ package stream;
 
 public class Product {
 
-    private int iphone;
-    private int ipad;
-    private int macboook;
+    private String name;
+    private int amonut;
+
 
     public Product(){
-        this.iphone = 10;
-        this.ipad = 15;
-        this.macboook = 5;
     }
 
-    public int  getIphone(){
-        return this.iphone;
+    public void setName(String name){
+        this.name = name;
     }
 
-    public int getIpad(){
-        return this.ipad;
+    public String getName(){
+        return this.name;
     }
 
-    public int getMacboook(){
-        return this.macboook;
+    public void setAmonut(int amount){
+        this.amonut = amount;
+    }
+
+    public int getAmonut(){
+        return  this.amonut;
     }
 }
