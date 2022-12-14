@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e55bce0-6067-47c8-acc5-22fbe8e40f46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lambda/sec01/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec01/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec02/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec02/ButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec02/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec02/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec03/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec03/Speakable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lambda/sec03/Workable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IvNg33Fr5GSNSzYUQXypW1LOEp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Dilan/study/JavaSkill",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e55bce0-6067-47c8-acc5-22fbe8e40f46" name="Changes" comment="" />
+      <created>1671058204244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671058204244</updated>
+      <workItem from="1671058205515" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
