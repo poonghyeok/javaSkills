@@ -1,0 +1,5 @@
+{"pno" : 1, "name" : "상품1", "company" : "마인츠 허브", "price" : 1558}
+{"pno" : 2, "name" : "상품2", "company" : "마인츠 허브", "price" : 456}
+{"pno" : 3, "name" : "상품3", "company" : "마인츠 허브", "price" : 8778}
+{"pno" : 4, "name" : "상품4", "company" : "마인츠 허브", "price" : 2134}
+{"pno" : 5, "name" : "상품5", "company" : "마인츠 허브", "price" : 488}
