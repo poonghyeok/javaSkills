@@ -26,6 +26,6 @@ public class FlatMappingExample {
                     return Arrays.stream(intArr);
                 })
                 .forEach(number -> System.out.println(number));
-        //이중 반복 감성 
+        //이중 반복 감성
     }
 }
